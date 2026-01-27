@@ -20,4 +20,9 @@ Here are some ideas to get you started:
 ### Learning
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
 
-
+### Github Stats
+<div>
+<a href="https://github.com/nana-ferreira">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nana-ferreira&layout=compact&langs_count=7&theme=maroongold"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=nana-ferreira&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
+</div>
