@@ -1,4 +1,5 @@
-## Hi there 👋
+# Hi there :sparkles:
+## My name is Ana Paula and my nickname is "Nana"!
 
 <!--
 **nana-ferreira/nana-ferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
